@@ -5,7 +5,7 @@ date:
 page_sections:
 - template: navigation-header-w-button
   block: header-2
-  logo: "/uploads/2018/06/21/forestry-full.svg"
+  logo: https://cdn.jsdelivr.net/gh/yanquisalexander/tecnosoportes.github.io/uploads/2020/07/05/poster6_24_171841.png
   navigation:
   - link: "/"
     link_text: Home
