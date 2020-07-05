@@ -16,8 +16,8 @@ page_sections:
   - link: "#team"
     link_text: Team
   cta:
-    url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
-    button_text: Download
+    url: https://compras.tecnosoportes.tk
+    button_text: Comprar ahora
 - template: content-feature
   block: feature-1
   media_alignment: Left
