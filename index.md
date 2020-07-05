@@ -49,7 +49,7 @@ page_sections:
 - template: 1-column-text
   block: one-column-1
   headline: Bienvenido a Tecnosoportes!
-  content: ''
+  content: <img src="https://cdn.jsdelivr.net/gh/yanquisalexander/tecnosoportes.github.io/uploads/2020/07/05/poster6_24_171841.png">
 
 ---
 foo bar
