@@ -18,18 +18,6 @@ page_sections:
   cta:
     url: https://compras.tecnosoportes.tk
     button_text: Comprar ahora
-- template: hero-banner-w-image
-  block: hero-2
-  image:
-    image: https://cdn.jsdelivr.net/gh/yanquisalexander/tecnosoportes.github.io/uploads/2020/07/05/poster6_24_171841.png
-    alt_text: ''
-  background_image: ''
-  headline: ''
-  content: ''
-  cta:
-    enabled: false
-    url: ''
-    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
@@ -58,6 +46,10 @@ page_sections:
   block: cta-bar
   content: ''
   email_recipient: ''
+- template: 1-column-text
+  block: one-column-1
+  headline: Bienvenido a Tecnosoportes!
+  content: ''
 
 ---
 foo bar
